@@ -19,7 +19,13 @@ term: 二(春夏)
 
 ## 笔记
 
-- [《电磁场与电磁波》手写笔记 PDF](assets/electromagnetic-fields-notes.pdf)
+<iframe
+  class="pdf-viewer"
+  src="assets/electromagnetic-fields-notes.pdf"
+  title="《电磁场与电磁波》手写笔记 PDF"
+></iframe>
+
+[打开或下载《电磁场与电磁波》手写笔记 PDF](assets/electromagnetic-fields-notes.pdf)
 
 ## 资料
 

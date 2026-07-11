@@ -106,6 +106,16 @@
   vertical-align: top;
 }
 
+.md-typeset .pdf-viewer {
+  aspect-ratio: 16 / 10;
+  border: 0.05rem solid var(--md-default-fg-color--lightest);
+  border-radius: 0.25rem;
+  box-shadow: var(--md-shadow-z1);
+  height: min(78vh, 46rem);
+  margin: 0.75rem 0 1rem;
+  width: 100%;
+}
+
 .md-typeset .status-pill {
   border: 0.05rem solid var(--md-default-fg-color--lightest);
   border-radius: 0.3rem;
