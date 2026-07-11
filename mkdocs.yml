@@ -1,29 +1,10 @@
 site_name: Genie Mountain
 site_url: https://leadersteven27.github.io/
-site_description: 个人课程笔记与知识库
+site_description: 个人课程笔记 / 学习资料 / 知识库
 repo_name: LEADERSteven27/LEADERSteven27.github.io
 repo_url: https://github.com/LEADERSteven27/LEADERSteven27.github.io/
 edit_uri: edit/main/docs/
-copyright: Copyright &copy; 2026 丁ayChou
-
-nav:
-  - 主页:
-      - index.md
-      - 贡献指南: contributing.md
-      - 课程页面模板: template.md
-      - 更新历史: changelog.md
-  - 光电:
-      - optoelectronics/index.md
-  - 数学物理:
-      - math_phys/index.md
-  - 计算机:
-      - computer_science/index.md
-  - 经济学:
-      - economics/index.md
-  - 通识与杂项:
-      - general/index.md
-  - 关于:
-      - about/index.md
+copyright: Copyright &copy; 2026 LEADERSteven27
 
 theme:
   name: material
@@ -70,9 +51,8 @@ plugins:
       lang:
         - zh
         - en
-  - heti:
-      extra_skipped_class:
-        - arithmatex
+  - awesome-pages:
+      collapse_single_pages: true
 
 extra_css:
   - https://fonts.googleapis.com/css?family=Noto+Serif+SC:300,300i,400,400i,700,700i&display=fallback

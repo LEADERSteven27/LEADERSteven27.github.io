@@ -27,7 +27,106 @@
   font-size: 1.05rem;
 }
 
+.md-typeset p,
+.md-typeset li {
+  color: var(--md-typeset-color);
+}
+
+.md-typeset .grid.cards > ul > li p {
+  color: var(--md-default-fg-color--light);
+}
+
+.md-typeset .card-desc {
+  -webkit-text-fill-color: var(--md-default-fg-color--light) !important;
+  color: var(--md-default-fg-color--light) !important;
+  display: block;
+  font-size: 0.78rem;
+  line-height: 1.6;
+  margin-top: 0.45rem;
+}
+
+.md-typeset .principle-list {
+  display: grid;
+  gap: 0.45rem;
+  margin: 1rem 0;
+}
+
+.md-typeset .principle-item {
+  font-size: 0.8rem;
+  line-height: 1.7;
+  padding-left: 0.8rem;
+  position: relative;
+}
+
+.md-typeset .principle-text {
+  -webkit-text-fill-color: var(--md-default-fg-color--light) !important;
+  color: var(--md-default-fg-color--light) !important;
+  display: block;
+  opacity: 1 !important;
+  visibility: visible !important;
+}
+
+.md-typeset .principle-item::before {
+  background: var(--md-accent-fg-color);
+  border-radius: 50%;
+  content: "";
+  height: 0.25rem;
+  left: 0;
+  position: absolute;
+  top: 0.62rem;
+  width: 0.25rem;
+}
+
 .md-typeset .center {
   text-align: center;
+}
+
+.md-typeset .course-table table {
+  font-size: 0.9rem;
+  min-width: 34rem;
+}
+
+.md-typeset .course-table {
+  max-width: 100%;
+  overflow-x: auto;
+}
+
+.md-typeset .course-table th,
+.md-typeset .course-table td {
+  vertical-align: top;
+}
+
+.md-typeset .status-pill {
+  border: 0.05rem solid var(--md-default-fg-color--lightest);
+  border-radius: 0.3rem;
+  color: var(--md-default-fg-color--light);
+  display: inline-block;
+  font-size: 0.72rem;
+  line-height: 1.45;
+  padding: 0 0.35rem;
+  white-space: nowrap;
+}
+
+.md-typeset .link-list {
+  display: grid;
+  gap: 0.55rem;
+  margin-top: 0.75rem;
+}
+
+.md-typeset .link-list a {
+  border-left: 0.12rem solid var(--md-accent-fg-color);
+  display: block;
+  padding-left: 0.65rem;
+}
+
+@media screen and (max-width: 44.9375em) {
+  .md-typeset .course-table table {
+    font-size: 0.78rem;
+    min-width: 31rem;
+  }
+
+  .md-typeset .status-pill {
+    font-size: 0.66rem;
+  }
 }
 

@@ -1,0 +1,17 @@
+title: 专业必修课
+nav:
+  - index.md
+  - intro-optoelectronics
+  - circuit-foundations-lab
+  - digital-circuits
+  - electromagnetic-fields
+  - discrete-math
+  - microcomputer-principles
+  - applied-optics
+  - applied-optics-lab
+  - optoelectronics
+  - physical-optics
+  - physical-optics-lab
+  - optoelectronic-design-lab
+  - optoelectronic-detection
+  - ...

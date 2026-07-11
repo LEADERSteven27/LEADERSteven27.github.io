@@ -4,46 +4,55 @@ home: true
 
 # Genie Mountain
 
-<p class="lead">一个面向课程、学习记录与资料整理的个人知识库。</p>
+<p class="lead">我用来整理光电课程笔记、学习资料和阶段性想法的个人知识库。</p>
 
-这里会逐步整理本科阶段的课程经验、专题笔记、参考资料与踩坑记录。站点结构参考课程指南型资料站：先建立稳定的分类和模板，再慢慢填充内容。
-
-!!! tip "写在前面"
-    旧 Hexo 博客已作为历史版本归档。新站不迁移旧文章，也不再保留原主题功能；之后的内容会围绕课程与知识整理重新生长。
-
-## 分类入口
+## 入口
 
 <div class="grid cards" markdown>
 
--   :material-waveform: **[光电](optoelectronics/index.md)**
+-   :material-bookshelf: **[通识选修课](general_education/index.md)**
 
-    光电信息科学与工程相关课程、实验与资料。
+    <span class="card-desc">通识核心课、其他选修课和选课记录。</span>
 
--   :material-function-variant: **[数学物理](math_phys/index.md)**
+-   :material-function-variant: **[数理基础课](foundations/index.md)**
 
-    数学、物理、建模与基础理论。
+    <span class="card-desc">数学、物理、计算与工程基础课程。</span>
 
--   :material-laptop: **[计算机](computer_science/index.md)**
+-   :material-telescope: **[专业必修课](required/index.md)**
 
-    编程、算法、视觉、机器学习与工程实践。
+    <span class="card-desc">培养方案中的光电专业核心必修课程。</span>
 
--   :material-chart-bell-curve: **[经济学](economics/index.md)**
+-   :material-lightbulb-on-outline: **[专业选修课](electives/index.md)**
 
-    辅修经济学课程与阅读记录。
+    <span class="card-desc">专业模块课程和本专业进阶选修池。</span>
 
--   :material-bookshelf: **[通识与杂项](general/index.md)**
+-   :material-calendar-clock: **[短学期课程](short_terms/index.md)**
 
-    通识课程、阅读、工具与其他想留下的东西。
+    <span class="card-desc">光机结构设计、光学系统设计。</span>
 
--   :material-account-circle: **[关于](about/index.md)**
+-   :material-transit-connection-variant: **[跨专业课程](cross_major/index.md)**
 
-    站点说明、个人简介与维护记录。
+    <span class="card-desc">经济类、信电类等跨学科课程记录。</span>
+
+-   :material-airplane-takeoff: **[飞跃之旅](journey/index.md)**
+
+    <span class="card-desc">升学、交换、申请与经验帖索引。</span>
+
+-   :material-trophy-outline: **[光电竞赛](competitions/index.md)**
+
+    <span class="card-desc">竞赛资料入口，暂时留空。</span>
+
+-   :material-flask-outline: **[Research](research/index.md)**
+
+    <span class="card-desc">科研记录、论文阅读和项目材料入口，暂时留空。</span>
 
 </div>
 
-## 维护原则
+## 现在的整理方式
 
-- 页面优先服务复习、检索和复盘，不追求花哨交互。
-- 每门课程尽量使用统一模板，便于横向比较。
-- 资料链接与个人评价分开写，避免以后自己看不懂。
-- 内容可以慢慢补，结构先保持清晰。
+<div class="principle-list">
+  <div class="principle-item"><span class="card-desc principle-text">课程分类按培养方案和实际学习路径放置，课程内容放在各自页面里。</span></div>
+  <div class="principle-item"><span class="card-desc principle-text">笔记正文、参考资料、个人评价分开写，方便以后复习和删改。</span></div>
+  <div class="principle-item"><span class="card-desc principle-text">没有写完的页面会保留为“待整理”，先确保入口稳定。</span></div>
+  <div class="principle-item"><span class="card-desc principle-text">新增课程或专题时优先放到对应栏目，不再用博客时间线组织内容。</span></div>
+</div>

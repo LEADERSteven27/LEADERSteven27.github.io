@@ -1,0 +1,18 @@
+title: 数理基础课
+nav:
+  - index.md
+  - calculus-a-1
+  - calculus-a-2
+  - linear-algebra-a
+  - college-physics-a-1
+  - college-physics-a-2
+  - college-physics-lab
+  - ode
+  - complex-functions
+  - probability-statistics
+  - pde
+  - c-programming
+  - ai-foundations-a
+  - engineering-graphics
+  - engineering-training
+  - ...
