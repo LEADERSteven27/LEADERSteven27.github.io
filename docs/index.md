@@ -2,9 +2,9 @@
 home: true
 ---
 
-# Genie Mountain
+# Chasing The Light
 
-<p class="lead">我用来整理光电课程笔记、学习资料和阶段性想法的个人知识库。</p>
+<p class="lead">欢迎踏上追光之旅！</p>
 
 ## 入口
 
@@ -46,13 +46,16 @@ home: true
 
     <span class="card-desc">科研记录、论文阅读和项目材料入口，暂时留空。</span>
 
+-   :material-notebook-edit-outline: **[杂记](miscellany/index.md)**
+
+    <span class="card-desc">阅读、生活感悟和一些不必归入课程的记录。</span>
+
 </div>
 
-## 现在的整理方式
+## 更新记录
 
 <div class="principle-list">
-  <div class="principle-item"><span class="card-desc principle-text">课程分类按培养方案和实际学习路径放置，课程内容放在各自页面里。</span></div>
-  <div class="principle-item"><span class="card-desc principle-text">笔记正文、参考资料、个人评价分开写，方便以后复习和删改。</span></div>
-  <div class="principle-item"><span class="card-desc principle-text">没有写完的页面会保留为“待整理”，先确保入口稳定。</span></div>
-  <div class="principle-item"><span class="card-desc principle-text">新增课程或专题时优先放到对应栏目，不再用博客时间线组织内容。</span></div>
+  <div class="principle-item"><span class="card-desc principle-text">2026-07-11：新增“杂记”栏目，首页更名为 Chasing The Light。</span></div>
+  <div class="principle-item"><span class="card-desc principle-text">2026-07-11：整理“光学系统设计”测试笔记并发布到短学期课程。</span></div>
+  <div class="principle-item"><span class="card-desc principle-text">2026-07-11：按培养方案重组课程栏目，并补齐课程占位页。</span></div>
 </div>

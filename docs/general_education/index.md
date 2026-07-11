@@ -6,11 +6,11 @@
 
 <div class="grid cards" markdown>
 
--   :material-star-four-points-outline: **[通识核心课](core.md)**
+-   :material-star-four-points-outline: **[通识核心课](core/index.md)**
 
     至少修读 1 门通识核心课程。
 
--   :material-bookshelf: **[其他选修课](other.md)**
+-   :material-bookshelf: **[其他选修课](other/index.md)**
 
     记录普通通识选修课、博雅技艺类课程和个人选课体验。
 

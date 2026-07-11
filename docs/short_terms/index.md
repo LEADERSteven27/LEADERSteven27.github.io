@@ -4,9 +4,9 @@
 
 <div class="course-table" markdown>
 
-| 课程 | 课程号 | 学分 | 建议学期 | 状态 |
-| --- | --- | ---: | --- | --- |
-| [光机结构设计](optomechanical-structure-design/index.md) | OPT1051M | 2.0 | 一(短) | <span class="status-pill">待整理</span> |
-| [光学系统设计](optical-system-design/index.md) | OPT2053M | 2.0 | 二(短) | <span class="status-pill">待整理</span> |
+| 课程 | 学分 | 修读学期 | 状态 |
+| --- | ---: | --- | --- |
+| [光机结构设计](optomechanical-structure-design/index.md) | 2.0 | 一(短) | <span class="status-pill">待整理</span> |
+| [光学系统设计](optical-system-design/index.md) | 2.0 | 二(短) | <span class="status-pill">已整理</span> |
 
 </div>

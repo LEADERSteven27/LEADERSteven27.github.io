@@ -1,7 +1,6 @@
 ---
 title: Introduction to Optics
 status: 待整理
-course_code: OPT3036M
 credits: 1.5
 term: 三(春)/四(冬)
 ---
@@ -13,9 +12,8 @@ term: 三(春)/四(冬)
 
 ## 课程概览
 
-- 课程代码：OPT3036M
 - 学分：1.5
-- 建议学期：三(春)/四(冬)
+- 修读学期：三(春)/四(冬)
 
 ## 笔记
 

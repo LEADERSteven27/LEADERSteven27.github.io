@@ -83,8 +83,6 @@ COURSES = [
 
 def render_course(title: str, code: str, credits: str, term: str) -> str:
     meta = ["---", f"title: {title}", "status: 待整理"]
-    if code:
-        meta.append(f"course_code: {code}")
     if credits:
         meta.append(f"credits: {credits}")
     if term:
@@ -92,12 +90,10 @@ def render_course(title: str, code: str, credits: str, term: str) -> str:
     meta.append("---")
 
     details = []
-    if code:
-        details.append(f"- 课程代码：{code}")
     if credits:
         details.append(f"- 学分：{credits}")
     if term:
-        details.append(f"- 建议学期：{term}")
+        details.append(f"- 修读学期：{term}")
     if not details:
         details.append("- 课程信息：待补充")
 

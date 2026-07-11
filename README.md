@@ -1,4 +1,4 @@
-# Genie Mountain
+# Chasing The Light
 
 个人课程笔记、学习资料与知识库站点，基于 Material for MkDocs。
 
@@ -13,24 +13,47 @@
 - `scripts/scaffold_course_pages.py`：补齐培养方案中的课程占位页。
 - `site/`：构建产物，已被 `.gitignore` 忽略。
 
-## 写一篇课程笔记
+## 写一篇课程笔记并发布
 
-1. 在对应栏目中找到课程目录，例如 `docs/required/applied-optics/index.md`。
-2. 直接编辑这个 `index.md`，保留标题和必要的课程元数据即可。
-3. 如果是新课程，复制 `templates/course.md` 到 `docs/<栏目>/<课程英文名>/index.md`。
-4. 新课程会自动出现在侧边栏；如需调整顺序，编辑该栏目的 `.pages`。
-5. 本地检查：
+1. 先同步远端，避免覆盖线上已有改动：
+
+```powershell
+git pull origin main
+```
+
+2. 在对应栏目中找到课程目录，例如 `docs/required/applied-optics/index.md`。
+3. 直接编辑这个 `index.md`，保留标题和必要的课程元数据即可。
+4. 如果是新课程，复制 `templates/course.md` 到 `docs/<栏目>/<课程英文名>/index.md`。
+5. 新课程会自动出现在侧边栏；如需调整顺序，编辑该栏目的 `.pages`。
+6. 本地检查：
 
 ```powershell
 python -m pip install -r requirements.txt
 python -m mkdocs build --strict
 ```
 
-6. 本地预览：
+7. 本地预览：
 
 ```powershell
 python -m mkdocs serve --dev-addr=127.0.0.1:8000
 ```
+
+8. 检查改动：
+
+```powershell
+git status
+git diff
+```
+
+9. 提交并推送：
+
+```powershell
+git add -A
+git commit -m "Add note: 笔记标题"
+git push origin main
+```
+
+10. 等待 GitHub Actions 完成发布，再刷新线上页面。若浏览器仍显示旧页面，强制刷新或给 URL 加 `?v=提交号`。
 
 ## 更新栏目
 

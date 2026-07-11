@@ -1,6 +1,6 @@
 title: 通识选修课
 nav:
   - index.md
-  - core.md
-  - other.md
+  - core
+  - other
   - ...
