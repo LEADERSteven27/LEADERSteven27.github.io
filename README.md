@@ -62,6 +62,38 @@ git push origin main
 3. 调整某个栏目内课程顺序：编辑对应目录下的 `.pages`。
 4. 不要手动修改或提交 `site/`。
 
+## 修改网页任意位置
+
+1. 先判断你要改的是哪类内容：
+   - 首页标题、入口卡片、更新记录：改 `docs/index.md`。
+   - 某个栏目介绍或课程清单：改 `docs/<栏目>/index.md`。
+   - 某门课的笔记正文：改 `docs/<栏目>/<课程>/index.md`。
+   - 导航顺序：改对应目录的 `.pages`。
+   - 字体、卡片、表格、间距等样式：改 `docs/stylesheets/custom.css`。
+   - 站点名、仓库链接、主题功能、插件：改 `mkdocs.yml`。
+2. 修改某个首页入口框里的文字：
+   - 打开 `docs/index.md`。
+   - 找到对应卡片，例如 `**[短学期课程](short_terms/index.md)**`。
+   - 改它下面的 `<span class="card-desc">...</span>`。
+3. 上传或新增一份课程笔记：
+   - 如果课程页已经存在，直接编辑对应 `index.md`。
+   - 如果课程页不存在，新建 `docs/<栏目>/<课程英文名>/index.md`，可从 `templates/course.md` 复制。
+   - 新页面会自动进入侧边栏；需要调整顺序时再改该栏目 `.pages`。
+   - 如果也希望它出现在栏目课程清单表格里，在 `docs/<栏目>/index.md` 增加一行链接。
+4. 每次改完都运行：
+
+```powershell
+python -m mkdocs build --strict
+```
+
+5. 确认无误后提交并推送：
+
+```powershell
+git add -A
+git commit -m "Update site content"
+git push origin main
+```
+
 ## 补齐课程占位页
 
 如果误删了某个培养方案课程页，可以运行：

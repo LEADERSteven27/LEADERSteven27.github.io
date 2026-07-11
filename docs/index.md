@@ -55,7 +55,7 @@ home: true
 ## 更新记录
 
 <div class="principle-list">
-  <div class="principle-item"><span class="card-desc principle-text">2026-07-11：新增“杂记”栏目，首页更名为 Chasing The Light。</span></div>
-  <div class="principle-item"><span class="card-desc principle-text">2026-07-11：整理“光学系统设计”测试笔记并发布到短学期课程。</span></div>
-  <div class="principle-item"><span class="card-desc principle-text">2026-07-11：按培养方案重组课程栏目，并补齐课程占位页。</span></div>
+  <div class="principle-item"><span class="card-desc principle-text">2025.7.13 创建个人网页</span></div>
+  <div class="principle-item"><span class="card-desc principle-text">2026.7.11 重构个人网页</span></div>
+  <div class="principle-item"><span class="card-desc principle-text">2026.7.12 更新《光学系统设计》</span></div>
 </div>
