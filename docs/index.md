@@ -52,10 +52,8 @@ home: true
 
 </div>
 
-## 更新记录
+## 关于我
 
-<div class="principle-list">
-  <div class="principle-item"><span class="card-desc principle-text">2025.7.13 创建个人网页</span></div>
-  <div class="principle-item"><span class="card-desc principle-text">2026.7.11 重构个人网页</span></div>
-  <div class="principle-item"><span class="card-desc principle-text">2026.7.12 更新《光学系统设计》</span></div>
+<div class="about-panel">
+  <span class="card-desc about-text">浙江大学光电科学与工程学院，2024 级光电信息科学与工程专业。</span>
 </div>

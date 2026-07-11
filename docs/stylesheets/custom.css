@@ -77,6 +77,16 @@
   width: 0.25rem;
 }
 
+.md-typeset .about-panel {
+  border-left: 0.12rem solid var(--md-accent-fg-color);
+  margin: 1rem 0;
+  padding: 0.2rem 0 0.2rem 0.8rem;
+}
+
+.md-typeset .about-text {
+  font-size: 0.82rem;
+}
+
 .md-typeset .center {
   text-align: center;
 }

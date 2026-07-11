@@ -62,6 +62,21 @@ git push origin main
 3. 调整某个栏目内课程顺序：编辑对应目录下的 `.pages`。
 4. 不要手动修改或提交 `site/`。
 
+## 添加 PDF 或图片
+
+1. 优先把资源放在对应页面旁边的 `assets/` 目录，例如：
+   - `docs/required/electromagnetic-fields/assets/electromagnetic-fields-notes.pdf`
+   - `docs/required/electromagnetic-fields/assets/field-lines.png`
+2. 在 Markdown 中使用相对链接：
+
+```markdown
+[手写笔记 PDF](assets/electromagnetic-fields-notes.pdf)
+![场线示意图](assets/field-lines.png)
+```
+
+3. 一般不需要图床。课程笔记中的普通图片直接放仓库最省心。
+4. 只有图片或 PDF 很大、数量很多、需要外链复用，或接近 GitHub 单文件 100 MB 限制时，再考虑图床、对象存储或网盘。
+
 ## 修改网页任意位置
 
 1. 先判断你要改的是哪类内容：
