@@ -94,24 +94,20 @@
 
 ## 前辈分享
 
+以下均为CC98链接，截取自光电课程资源楼，选取了本人使用到的帖子。
+
 <div class="link-list" markdown>
 
 [【不败光电】什么，觉得场波很难？不用怕，lz为你答疑解惑。（光电 电磁场与电磁波 光电场波）](https://www.cc98.org/topic/5934589)
 
-[25-26期末](https://www.cc98.org/topic/6555070)
-
-[24-25期末](https://www.cc98.org/topic/6215776)
-
-[23-24期末](https://www.cc98.org/topic/5924707)
-
-[22-23期末](https://www.cc98.org/topic/5640659)
-
 [【不败光电】【场波】近期整理的复习资料，包括所有的课后题也都都重新做了一遍，抱佛脚专用](https://www.cc98.org/topic/5924500)
 
-[【不败光电】开个场波发疯楼](https://www.cc98.org/topic/5922249)
-
-[【不败光电】场波 lq班 作业题整理 中文版题目+答案](https://www.cc98.org/topic/5921413)
-
 [热评有场波的电子书以及习题答案【不败光电】场波怎么学](https://www.cc98.org/topic/6113674)
+
+[回忆卷：24-25期末](https://www.cc98.org/topic/6215776)
+
+[回忆卷：23-24期末](https://www.cc98.org/topic/5924707)
+
+[回忆卷：22-23期末](https://www.cc98.org/topic/5640659)
 
 </div>
