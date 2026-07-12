@@ -102,6 +102,12 @@
   overflow-x: auto;
 }
 
+.md-typeset .course-table .md-typeset__scrollwrap,
+.md-typeset .course-table .md-typeset__table {
+  margin: 0;
+  overflow-x: visible;
+}
+
 .md-typeset .course-table th,
 .md-typeset .course-table td {
   vertical-align: top;
