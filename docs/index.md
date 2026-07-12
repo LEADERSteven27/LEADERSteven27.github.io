@@ -12,7 +12,7 @@ home: true
 
 -   :material-bookshelf: **[通识选修课](general_education/index.md)**
 
-    <span class="card-desc">通识核心课、其他选修课和选课记录。</span>
+    <span class="card-desc">通识核心课、其他选修课修读体验。</span>
 
 -   :material-function-variant: **[数理基础课](foundations/index.md)**
 
@@ -20,7 +20,7 @@ home: true
 
 -   :material-telescope: **[专业必修课](required/index.md)**
 
-    <span class="card-desc">培养方案中的光电专业核心必修课程。</span>
+    <span class="card-desc">光电专业核心及其他必修课程。</span>
 
 -   :material-lightbulb-on-outline: **[专业选修课](electives/index.md)**
 
@@ -32,7 +32,7 @@ home: true
 
 -   :material-transit-connection-variant: **[跨专业课程](cross_major/index.md)**
 
-    <span class="card-desc">经济类、信电类等跨学科课程记录。</span>
+    <span class="card-desc">经济类、信电类、数学类等跨学科课程记录。</span>
 
 -   :material-airplane-takeoff: **[飞跃之旅](journey/index.md)**
 
@@ -40,15 +40,15 @@ home: true
 
 -   :material-trophy-outline: **[光电竞赛](competitions/index.md)**
 
-    <span class="card-desc">竞赛资料入口，暂时留空。</span>
+    <span class="card-desc">竞赛资料整理及参赛经历。</span>
 
 -   :material-flask-outline: **[Research](research/index.md)**
 
-    <span class="card-desc">科研记录、论文阅读和项目材料入口，暂时留空。</span>
+    <span class="card-desc">科研记录、论文阅读和专业方向调研。</span>
 
 -   :material-notebook-edit-outline: **[杂记](miscellany/index.md)**
 
-    <span class="card-desc">阅读、生活感悟和一些不必归入课程的记录。</span>
+    <span class="card-desc">阅读、生活感悟等随笔录。</span>
 
 </div>
 
