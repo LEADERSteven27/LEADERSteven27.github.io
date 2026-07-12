@@ -32,7 +32,7 @@ home: true
 
 -   :material-transit-connection-variant: **[跨专业课程](cross_major/index.md)**
 
-    <span class="card-desc">经济类、信电类、数学类等跨学科课程记录。</span>
+    <span class="card-desc">经济类、信电类等跨学科课程记录。</span>
 
 -   :material-airplane-takeoff: **[飞跃之旅](journey/index.md)**
 
