@@ -1,8 +1,7 @@
 ---
 title: Introduction to Optics
-status: 待整理
 credits: 1.5
-term: 三(春)/四(冬)
+term: 26-27春/27-28冬
 ---
 
 # Introduction to Optics
@@ -13,7 +12,7 @@ term: 三(春)/四(冬)
 ## 课程概览
 
 - 学分：1.5
-- 修读学期：三(春)/四(冬)
+- 修读学期：26-27春/27-28冬
 
 ## 笔记
 

@@ -6,10 +6,14 @@
 
 -   :material-chart-line: **[经济类](economics/index.md)**
 
-    宏观经济学、金融实务、证券投资相关课程。
+    微观经济学、宏观经济学、金融实务、证券投资相关课程。
 
--   :material-sine-wave: **[信电类](information-electronics/index.md)**
+-   :material-function-variant: **[数理类](math-physics/index.md)**
 
-    信号与系统等电子信息基础课程。
+    高等代数、数理方法等数学与物理拓展课程。
+
+-   :material-cog-outline: **[工程类](engineering/index.md)**
+
+    工程基础与计算机课程资料。
 
 </div>

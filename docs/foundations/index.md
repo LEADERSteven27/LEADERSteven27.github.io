@@ -6,15 +6,15 @@
 
 <div class="course-table" markdown>
 
-| 课程 | 学分 | 修读学期 | 状态 |
-| --- | ---: | --- | --- |
-| [微积分（甲）Ⅰ](calculus-a-1/index.md) | 5.0 | 一(秋冬) | <span class="status-pill">待整理</span> |
-| [微积分（甲）Ⅱ](calculus-a-2/index.md) | 5.0 | 一(春夏) | <span class="status-pill">待整理</span> |
-| [线性代数（甲）](linear-algebra-a/index.md) | 3.5 | 一(秋冬)/一(春夏) | <span class="status-pill">待整理</span> |
-| [常微分方程](ode/index.md) | 1.0 | 一(春) | <span class="status-pill">待整理</span> |
-| [复变函数与积分变换](complex-functions/index.md) | 1.5 | 二(秋) | <span class="status-pill">待整理</span> |
-| [概率论与数理统计](probability-statistics/index.md) | 2.5 | 二(秋冬) | <span class="status-pill">待整理</span> |
-| [偏微分方程](pde/index.md) | 2.0 | 二(冬) | <span class="status-pill">待整理</span> |
+| 课程 | 学分 | 修读学期 | 状态 | 资源搜集 | 个人资料 |
+| --- | ---: | --- | --- | --- | --- |
+| [微积分（甲）Ⅰ](calculus-a-1/index.md) | 5.0 | 24-25秋冬 | <span class="status-pill">待整理</span> | / | / |
+| [微积分（甲）Ⅱ](calculus-a-2/index.md) | 5.0 | 24-25春夏 | <span class="status-pill">待整理</span> | / | / |
+| [线性代数（甲）](linear-algebra-a/index.md) | 3.5 | 24-25秋冬/24-25春夏 | <span class="status-pill">待整理</span> | / | / |
+| [常微分方程](ode/index.md) | 1.0 | 24-25春 | <span class="status-pill">待整理</span> | / | / |
+| [复变函数与积分变换](complex-functions/index.md) | 1.5 | 25-26秋 | <span class="status-pill">待整理</span> | / | / |
+| [概率论与数理统计](probability-statistics/index.md) | 2.5 | 25-26秋冬 | <span class="status-pill">待整理</span> | / | / |
+| [偏微分方程](pde/index.md) | 2.0 | 25-26冬 | <span class="status-pill">待整理</span> | / | / |
 
 </div>
 
@@ -22,11 +22,11 @@
 
 <div class="course-table" markdown>
 
-| 课程 | 学分 | 修读学期 | 状态 |
-| --- | ---: | --- | --- |
-| [大学物理（甲）Ⅰ](college-physics-a-1/index.md) | 4.0 | 一(春夏) | <span class="status-pill">待整理</span> |
-| [大学物理（甲）Ⅱ](college-physics-a-2/index.md) | 4.0 | 二(秋冬) | <span class="status-pill">待整理</span> |
-| [大学物理实验](college-physics-lab/index.md) | 1.5 | 二(秋冬) | <span class="status-pill">待整理</span> |
+| 课程 | 学分 | 修读学期 | 状态 | 资源搜集 | 个人资料 |
+| --- | ---: | --- | --- | --- | --- |
+| [大学物理（甲）Ⅰ](college-physics-a-1/index.md) | 4.0 | 24-25春夏 | <span class="status-pill">待整理</span> | / | / |
+| [大学物理（甲）Ⅱ](college-physics-a-2/index.md) | 4.0 | 25-26秋冬 | <span class="status-pill">待整理</span> | / | / |
+| [大学物理实验](college-physics-lab/index.md) | 1.5 | 25-26秋冬 | <span class="status-pill">待整理</span> | / | / |
 
 </div>
 
@@ -34,11 +34,11 @@
 
 <div class="course-table" markdown>
 
-| 课程 | 学分 | 修读学期 | 状态 |
-| --- | ---: | --- | --- |
-| [C程序设计基础及实验](c-programming/index.md) | 4.0 | 一(秋冬) | <span class="status-pill">待整理</span> |
-| [人工智能基础（A）](ai-foundations-a/index.md) | 2.0 | 一(春夏) | <span class="status-pill">待整理</span> |
-| [工程图学](engineering-graphics/index.md) | 2.5 | 一(春夏) | <span class="status-pill">待整理</span> |
-| [工程训练](engineering-training/index.md) | 1.5 | 二(秋冬) | <span class="status-pill">待整理</span> |
+| 课程 | 学分 | 修读学期 | 状态 | 资源搜集 | 个人资料 |
+| --- | ---: | --- | --- | --- | --- |
+| [C程序设计基础及实验](c-programming/index.md) | 4.0 | 24-25秋冬 | <span class="status-pill">待整理</span> | / | / |
+| [人工智能基础（A）](ai-foundations-a/index.md) | 2.0 | 24-25春夏 | <span class="status-pill">待整理</span> | / | / |
+| [工程图学](engineering-graphics/index.md) | 2.5 | 24-25春夏 | <span class="status-pill">待整理</span> | / | / |
+| [工程训练](engineering-training/index.md) | 1.5 | 25-26秋冬 | <span class="status-pill">待整理</span> | / | / |
 
 </div>
