@@ -16,7 +16,7 @@ home: true
 
 -   :material-function-variant: **[数理基础课](foundations/index.md)**
 
-    <span class="card-desc">数学、物理、计算与工程基础课程。</span>
+    <span class="card-desc">数学、物理与工程基础课程。</span>
 
 -   :material-telescope: **[专业必修课](required/index.md)**
 

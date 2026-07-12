@@ -136,6 +136,16 @@
   height: min(64vh, 34rem);
 }
 
+.md-typeset .pdf-open-link {
+  border: 0.05rem solid var(--md-default-fg-color--lightest);
+  border-radius: 0.25rem;
+  display: inline-block;
+  font-size: 0.72rem;
+  line-height: 1.5;
+  margin: -0.25rem 0 1rem;
+  padding: 0.15rem 0.45rem;
+}
+
 .md-typeset .status-pill {
   border: 0.05rem solid var(--md-default-fg-color--lightest);
   border-radius: 0.3rem;

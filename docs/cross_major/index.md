@@ -16,4 +16,8 @@
 
     工程基础与计算机课程资料。
 
+-   :material-book-open-page-variant-outline: **[人文类](humanities/index.md)**
+
+    人文社科与阅读类课程入口，暂时留空。
+
 </div>

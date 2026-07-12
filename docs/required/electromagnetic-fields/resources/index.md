@@ -10,6 +10,8 @@
   title="2026-03-03 EM Chapter 3 - BZ"
 ></iframe>
 
+<a class="pdf-open-link" href="../assets/slides-2026-03-03-chapter-3-bz.pdf" target="_blank" rel="noopener">↗ 在新标签页中查看</a>
+
 
 ### 2026-03-10 Chapter 5 - BZ
 
@@ -18,6 +20,8 @@
   src="../assets/slides-2026-03-10-chapter-5-bz.pdf"
   title="2026-03-10 EM Chapter 5 - BZ"
 ></iframe>
+
+<a class="pdf-open-link" href="../assets/slides-2026-03-10-chapter-5-bz.pdf" target="_blank" rel="noopener">↗ 在新标签页中查看</a>
 
 
 ### 2026-03-17 Chapter 6 - BZ
@@ -28,6 +32,8 @@
   title="2026-03-17 EM Chapter 6 - BZ"
 ></iframe>
 
+<a class="pdf-open-link" href="../assets/slides-2026-03-17-chapter-6-bz.pdf" target="_blank" rel="noopener">↗ 在新标签页中查看</a>
+
 
 ### 2026-03-24 Chapter 7-1 - BZ
 
@@ -36,6 +42,8 @@
   src="../assets/slides-2026-03-24-chapter-7-1-bz.pdf"
   title="2026-03-24 EM Chapter 7-1 - BZ"
 ></iframe>
+
+<a class="pdf-open-link" href="../assets/slides-2026-03-24-chapter-7-1-bz.pdf" target="_blank" rel="noopener">↗ 在新标签页中查看</a>
 
 
 ### 2026-04-21 Chapter 8-3
@@ -46,6 +54,8 @@
   title="2026-04-21 Chapter 8-3"
 ></iframe>
 
+<a class="pdf-open-link" href="../assets/slides-2026-04-21-chapter-8-3.pdf" target="_blank" rel="noopener">↗ 在新标签页中查看</a>
+
 
 ### 2026-04-28 Chapter 8
 
@@ -54,6 +64,8 @@
   src="../assets/slides-2026-04-28-chapter-8.pdf"
   title="2026-04-28 Chapter 8"
 ></iframe>
+
+<a class="pdf-open-link" href="../assets/slides-2026-04-28-chapter-8.pdf" target="_blank" rel="noopener">↗ 在新标签页中查看</a>
 
 
 ### 2026-05-12 Chapter 8
@@ -64,6 +76,8 @@
   title="2026-05-12 Chapter 8"
 ></iframe>
 
+<a class="pdf-open-link" href="../assets/slides-2026-05-12-chapter-8.pdf" target="_blank" rel="noopener">↗ 在新标签页中查看</a>
+
 
 ### 2026-05-19 Chapter 10
 
@@ -72,6 +86,8 @@
   src="../assets/slides-2026-05-19-chapter-10.pdf"
   title="2026-05-19 Chapter 10"
 ></iframe>
+
+<a class="pdf-open-link" href="../assets/slides-2026-05-19-chapter-10.pdf" target="_blank" rel="noopener">↗ 在新标签页中查看</a>
 
 
 ### 2026-06-02 Chapter 10-4
@@ -82,6 +98,8 @@
   title="2026-06-02 Chapter 10-4"
 ></iframe>
 
+<a class="pdf-open-link" href="../assets/slides-2026-06-02-chapter-10-4.pdf" target="_blank" rel="noopener">↗ 在新标签页中查看</a>
+
 
 ## 考纲
 
@@ -90,6 +108,8 @@
   src="../assets/syllabus-2026.pdf"
   title="电磁场与电磁波考纲 2026"
 ></iframe>
+
+<a class="pdf-open-link" href="../assets/syllabus-2026.pdf" target="_blank" rel="noopener">↗ 在新标签页中查看</a>
 
 
 ## 前辈分享

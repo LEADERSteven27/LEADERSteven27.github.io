@@ -1,6 +1,6 @@
 # 数理基础课
 
-<p class="lead">依据光电信息科学与工程培养方案整理数学、物理、计算与工程基础课程。</p>
+<p class="lead">依据光电信息科学与工程培养方案整理数学、物理与工程基础课程。</p>
 
 ## 数学基础
 
@@ -30,7 +30,7 @@
 
 </div>
 
-## 计算与工程基础
+## 工程基础
 
 <div class="course-table" markdown>
 
@@ -39,6 +39,7 @@
 | [C程序设计基础及实验](c-programming/index.md) | 4.0 | 24-25秋冬 | <span class="status-pill">待整理</span> | / | / |
 | [人工智能基础（A）](ai-foundations-a/index.md) | 2.0 | 24-25春夏 | <span class="status-pill">待整理</span> | / | / |
 | [工程图学](engineering-graphics/index.md) | 2.5 | 24-25春夏 | <span class="status-pill">待整理</span> | / | / |
+| [电子工程训练（甲）](electronic-engineering-training-a/index.md) | 1.5 | 24-25春夏 | <span class="status-pill">待整理</span> | / | / |
 | [工程训练](engineering-training/index.md) | 1.5 | 25-26秋冬 | <span class="status-pill">待整理</span> | / | / |
 
 </div>
