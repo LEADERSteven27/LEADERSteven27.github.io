@@ -10,7 +10,7 @@
 | --- | ---: | --- | --- | --- | --- |
 | [微积分（甲）Ⅰ](calculus-a-1/index.md) | 5.0 | 24-25秋冬 | <span class="status-pill">待整理</span> | / | / |
 | [微积分（甲）Ⅱ](calculus-a-2/index.md) | 5.0 | 24-25春夏 | <span class="status-pill">待整理</span> | / | / |
-| [线性代数（甲）](linear-algebra-a/index.md) | 3.5 | 24-25秋冬/24-25春夏 | <span class="status-pill">待整理</span> | / | / |
+| [线性代数（甲）](linear-algebra-a/index.md) | 3.5 | 24-25秋冬 | <span class="status-pill">待整理</span> | / | / |
 | [常微分方程](ode/index.md) | 1.0 | 24-25春 | <span class="status-pill">待整理</span> | / | / |
 | [复变函数与积分变换](complex-functions/index.md) | 1.5 | 25-26秋 | <span class="status-pill">待整理</span> | / | / |
 | [概率论与数理统计](probability-statistics/index.md) | 2.5 | 25-26秋冬 | <span class="status-pill">待整理</span> | / | / |
