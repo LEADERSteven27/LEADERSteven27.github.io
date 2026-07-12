@@ -92,8 +92,8 @@
 }
 
 .md-typeset .course-table table {
-  font-size: 0.78rem;
-  min-width: 58rem;
+  font-size: 0.8rem;
+  min-width: max-content;
   width: max-content;
 }
 
@@ -156,7 +156,6 @@
 @media screen and (max-width: 44.9375em) {
   .md-typeset .course-table table {
     font-size: 0.72rem;
-    min-width: 54rem;
   }
 
   .md-typeset .status-pill {

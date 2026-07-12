@@ -8,7 +8,6 @@
   title="《电磁场与电磁波》手写笔记 PDF"
 ></iframe>
 
-[打开或下载《电磁场与电磁波》手写笔记 PDF](../assets/electromagnetic-fields-notes.pdf)
 
 ## 回忆卷
 
